@@ -48,7 +48,13 @@ python -c "import qlib; print(qlib.__version__)"
 qrun --help
 ```
 
-## Git Remote 配置
+## Git 配置
+
+### 全局用户信息
+- **用户名**: `peace0phmind`
+- **邮箱**: `peace0phmind@gmail.com`
+
+### Git Remote 配置
 
 ### 主项目 (quant)
 - **origin**: `git@github.com:peace0phmind/quant.git` (项目协调仓库)
